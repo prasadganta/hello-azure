@@ -52,6 +52,10 @@
 					</from>
 					<to>
 						<image>mycontregspr.azurecr.io/2.0</image>
+						<auth>
+							<username>mycontregspr</username>
+							<password>nweDOCSa3q5d74qo+o/C+CVaEy+AhktK</password>
+						</auth>
 					</to>
 				</configuration>
 			</plugin>
