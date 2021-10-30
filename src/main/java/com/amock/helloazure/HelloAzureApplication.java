@@ -12,12 +12,4 @@ public class HelloAzureApplication {
 		SpringApplication.run(HelloAzureApplication.class, args);
 	}
 
-	@Controller
-	class WebController {
-		
-		@GetMapping
-		public String home(){
-			return "index";
-		}
-	}
 }
