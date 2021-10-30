@@ -21,7 +21,7 @@
 	</properties>
 	<scm>
 		<developerConnection>
-        scm:git:git@github.com:prasadganta/hello-azure.git
+        scm:git:https://github.com/prasadganta/hello-azure.git
     </developerConnection>
 	  <tag>1.0.0</tag>
   </scm>
